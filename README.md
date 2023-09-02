@@ -19,6 +19,7 @@ The simulation result:
 
 ## Reference
 [1] U. U. Fayyaz and J. R. Barry, "Polar codes for partial response channels," 2013 (ICC).
+
 [2] Z. Pan, E. Li, et,al., "Joint Iterative Detection and Decoding Receiver for Polar Coded SCMA System," 2018 (ICC Workshops).
 
 
