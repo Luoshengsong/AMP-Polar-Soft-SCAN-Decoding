@@ -16,3 +16,9 @@ Assume perfect CSI is known in BS side, we construct an iterative Bayesian recei
 The simulation result:
 
 ![image](https://github.com/Luoshengsong/AMP-Polar_Soft_SCAN_Decoding/assets/73685146/f69065b3-579e-4342-b585-a53f97fdf5da)
+
+## Reference
+[1] U. U. Fayyaz and J. R. Barry, "Polar codes for partial response channels," 2013 (ICC).
+[2] Z. Pan, E. Li, et,al., "Joint Iterative Detection and Decoding Receiver for Polar Coded SCMA System," 2018 (ICC Workshops).
+
+
